@@ -2,7 +2,7 @@
 
 - Designed for Super Metroid Area/Boss Randomizers.
 - Instead of drawing lines between portals, it uses color and text descriptions at the portal locations.
-- If your computer can run C# programs, then simply download the MapData directory.
+- If your computer can run C# programs, then simply [download the MapData directory](https://github.com/idlechild/AreaTracker/raw/master/MapData.zip).
 - The program should be intuitive to use, except perhaps for the area and boss names.
 - You can change the names by renaming the MapData files.
 - The All.conf file can also be used to adjust colors and other settings.
